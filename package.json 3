@@ -1,0 +1,12 @@
+const prompt=require("promt-sync")();
+let number=prompt("enter your number:");
+let convertedNumber=number(number);
+let num;
+let covertedNum=Number(num);
+for(convertedNum=1;convertedNum<=covertedNumber;convertedNum++){
+  if(convertedNum==5){
+    continue;
+  }
+  console.log(convertedNum);
+}
+
